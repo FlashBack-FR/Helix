@@ -20,7 +20,7 @@ https://steamcommunity.com/profiles/76561198024756243/
 > /setThirst target amount        -> Set the target's thirst value.  
 
 
-> #### English version
+> #### French version
 > ##### Petit tutoriel sur le fonctionnement des fonctions utilitaires
 >
 >
